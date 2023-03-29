@@ -1,0 +1,12 @@
+//Curso JavaScript: 11. Arreglos (Arrays) - #jonmircha
+
+const a=[];
+console.log(a);
+const b=[1,true,"hi",["A","B","C",[1,2,3]]];
+console.log(b);
+console.log(b.length);
+console.log(b[2]);
+console.log(b[0]);
+console.log(b[3]);
+console.log(b[3][2]);
+console.log(b);
